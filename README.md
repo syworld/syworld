@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 ## Hello World 👋
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syworld&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=syworld&show_icons=true&theme=algolia)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyworld&count_bg=%2344DDEF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsyworld&count_bg=%236DAEF8&title_bg=%23EEEAEA&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
